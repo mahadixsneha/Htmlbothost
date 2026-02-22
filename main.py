@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 # ================= CONFIG =================
 TOKEN = "8262253293:AAHTMA4nrXcHWyQLwyYRI2vtBWH1ahyWmGg"
 OWNER_ID = 7936924851
-DOMAIN = "https://yourdomain.com"  # no trailing slash
+DOMAIN = "https://htmlbothost.onrender.com"  # no trailing slash
 MAX_FILE_SIZE = 20 * 1024 * 1024
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
