@@ -10,8 +10,8 @@ from threading import Thread
 from datetime import datetime, timedelta
 
 # ================= CONFIG =================
-TOKEN = "YOUR_BOT_TOKEN"
-OWNER_ID = 123456789
+TOKEN = "8262253293:AAHTMA4nrXcHWyQLwyYRI2vtBWH1ahyWmGg"
+OWNER_ID = 7936924851
 DOMAIN = "https://yourdomain.com"  # no trailing slash
 MAX_FILE_SIZE = 20 * 1024 * 1024
 
