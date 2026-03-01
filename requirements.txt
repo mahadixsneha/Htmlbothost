@@ -1,2 +1,6 @@
-pyTelegramBotAPI==4.15.4
-Flask==3.0.2
+flask
+pyTelegramBotAPI
+qrcode[pil]
+Pillow
+requests
+gunicorn
